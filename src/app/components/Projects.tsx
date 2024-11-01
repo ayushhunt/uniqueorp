@@ -1,8 +1,7 @@
-import  {BackgroundBeamsWithCollision}  from '@/components/ui/backgroundbeanswithcollision'
+
 import { FocusCards } from '@/components/ui/focus_cards'
-import { TracingBeam } from '@/components/ui/tracingbeans'
 import React from 'react'
-import { Children } from 'react'
+
 
 const Projects = () => {
   const cards = [{

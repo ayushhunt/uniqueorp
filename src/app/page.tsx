@@ -3,8 +3,6 @@ import Hero from "./components/Hero";
 import AboutUs from "./components/Aboutus";
 import Services from "./components/ServicesComponent";
 
-import ClientsSection from "./components/ClientsSection";
-import PartnersSection from "./components/PartnersSection";
 
 import WhyChooseUs from "./components/whychooseus";
 import BookCall from "./components/BookaCall";

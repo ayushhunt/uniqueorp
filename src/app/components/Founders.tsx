@@ -1,5 +1,5 @@
 import { AnimatedTooltip } from "@/components/ui/AnimatedTooltip";
-import Image from "next/image";
+
 
 const Founders = () => {
   const founders = [

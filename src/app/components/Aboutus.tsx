@@ -12,7 +12,7 @@ const AboutUs: React.FC = () => {
             <span className="block text-green-400">Through Innovation and Expertise</span>
           </h2>
           <p className="text-lg font-medium text-blue-500 mb-6">
-          At Uniqueorp, we’re passionate about driving digital transformation through innovative solutions that simplify and elevate our clients' experiences. Specializing in a full suite of digital services—from creative design and advanced tech integration to complete digitization and ongoing support—we empower businesses to thrive in today’s dynamic market. Our team of experts combines technical prowess with creative insight to deliver solutions that are not only functional but future-ready, tailored to help you achieve and sustain digital success.
+          At Uniqueorp, we’re passionate about driving digital transformation through innovative solutions that simplify and elevate our clients &apos; experiences. Specializing in a full suite of digital services—from creative design and advanced tech integration to complete digitization and ongoing support—we empower businesses to thrive in today’s dynamic market. Our team of experts combines technical prowess with creative insight to deliver solutions that are not only functional but future-ready, tailored to help you achieve and sustain digital success.
           </p>
         </div>
 
