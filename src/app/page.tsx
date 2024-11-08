@@ -8,7 +8,7 @@ import WhyChooseUs from "./components/whychooseus";
 import BookCall from "./components/BookaCall";
 import ScrollToTop from "./components/ScrollToTop";
 import Projects from "./components/Projects";
-import Founders from "./components/Founders";
+
 
 export default function Home() {
   return (

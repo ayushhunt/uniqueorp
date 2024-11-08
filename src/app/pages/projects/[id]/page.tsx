@@ -71,7 +71,7 @@ export default function ProjectDetailPage({ params }: ProjectDetailPageProps) {
       <div className="flex h-screen items-center justify-center bg-gradient-to-br from-red-100 to-red-200">
         <div className="rounded-lg bg-white p-8 shadow-lg">
           <h1 className="mb-4 text-2xl font-bold text-red-600">Project Not Found</h1>
-          <p className="mb-4 text-gray-600">Sorry, the project you're looking for doesn't exist.</p>
+          <p className="mb-4 text-gray-600">Sorry, the project you&apos;re looking for doesn&apos;t exist.</p>
           <Link
             href="/pages/projects"
             className="inline-flex items-center rounded-md bg-red-600 px-4 py-2 text-white transition-colors hover:bg-red-700"
