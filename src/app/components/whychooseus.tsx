@@ -4,7 +4,7 @@ import React from "react";
 
 export default function WhyChooseUs() {
     return (
-      <section className="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 py-12">
+      <section className=" py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-center text-3xl sm:text-3xl font-extrabold text-white mb-3">
             Why Choose Us

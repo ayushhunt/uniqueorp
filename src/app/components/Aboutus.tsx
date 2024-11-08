@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutUs: React.FC = () => {
   return (
-    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 py-12 overflow-hidden">
+    <div className=" py-12 overflow-hidden">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between">
         {/* Left Side - Text Section */}
         <div className="w-full md:w-1/2 mb-8 md:mb-0">

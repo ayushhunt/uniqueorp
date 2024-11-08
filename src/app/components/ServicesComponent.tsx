@@ -108,7 +108,7 @@ const ServicesComponent: React.FC = () => {
   ];
 
   return (
-    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
+    <div className="">
       <div className="container mx-auto py-12">
         <h2 className="text-4xl font-bold text-center mb-2 text-white">
           Services We Provide

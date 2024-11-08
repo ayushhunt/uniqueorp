@@ -26,7 +26,7 @@ const Projects = () => {
   }
 ]
   return (
-    <div className='bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 pb-5 w-full h-auto'>
+    <div className=' pb-5 w-full h-auto'>
     
         <div className='items-center'>
         <h2 className="text-center text-3xl sm:text-3xl font-extrabold text-white mb-3">

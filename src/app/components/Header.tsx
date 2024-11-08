@@ -33,8 +33,7 @@ export default function StickyHeader() {
   const navItems = [
     { name: "Home", href: "/" },
     { name: "Services", href: "/pages/services" },
-    { name: "Clients", href: "/pages/clients" },
-    { name: "Partners", href: "/pages/partners" },
+    { name: "Projects", href: "/pages/projects" },
     { name: "Contact Us", href: "/pages/contactus" },
   ];
 
@@ -91,7 +90,7 @@ export default function StickyHeader() {
                 data-cal-namespace="uniqueorp"
                 data-cal-link="ayush-singh/uniqueorp"
                 data-cal-config='{"layout":"month_view"}'
-                className="bg-blue-800 hover:text-blue-600 mr-5 px-3 py-2 rounded-md text-lg font-medium transition-colors duration-200 ease-in-out"
+                className="bg-blue-800 hover:text-white mr-5 px-3 py-2 rounded-md sm:rounded-sm text-lg font-medium transition-colors duration-200 ease-in-out"
               >
                 Book a Call ↗
               </button>
@@ -115,7 +114,7 @@ export default function StickyHeader() {
 
       {/* Mobile menu */}
       {isOpen && (
-        <div className="fixed inset-0  bg-gray-900 bg-opacity-95 backdrop-blur-sm md:hidden z-custom-1">
+        <div className="fixed inset-0  bg-gray-900 bg-opacity-95 backdrop-blur-sm md:hidden z-custom-2">
           <div className="flex flex-col h-full justify-between p-6">
             <div>
               <div className="flex items-center justify-between mb-8">
@@ -125,10 +124,10 @@ export default function StickyHeader() {
                   onClick={handleNavClick}
                 >
                   <Image
-                    src="/Asset 24x.png"
+                    src="/Assests/3.svg"
                     alt="Company Logo"
-                    width={30}
-                    height={30}
+                    width={100}
+                    height={100}
                     className="mr-2"
                   />
                   <span></span>

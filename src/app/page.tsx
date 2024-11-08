@@ -31,7 +31,7 @@ export default function Home() {
 
       {/* Partners Section */}
       {/* <PartnersSection /> */}
-      <Founders/>
+      {/* <Founders/> */}
 <BookCall></BookCall>
 <ScrollToTop></ScrollToTop>
      
