@@ -97,9 +97,9 @@ const Footer = () => {
             </div>
             <div className="flex items-center">
               <FiPhone className="mr-2 hover:text-indigo-600 transition duration-300" />
-              <span className="font-semibold">+91-8800202305</span>
+              <span className="font-semibold">+916204821754</span>
               <FiCopy
-                onClick={() => copyToClipboard('+91-8800202305')}
+                onClick={() => copyToClipboard('+916204821754')}
                 className="ml-2 cursor-pointer hover:text-indigo-600 transition duration-300"
                 title="Copy Phone Number"
               />

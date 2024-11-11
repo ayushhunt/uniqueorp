@@ -10,10 +10,12 @@ interface Project {
 }
 
 const projects: Project[] = [
-  { id: '1', title: 'Project One', description: 'Description of Project One' },
-  { id: '2', title: 'Project Two', description: 'Description of Project Two' },
-  { id: '3', title: 'Project Three', description: 'Description of Project Three' },
-  { id: '4', title: 'Project Four', description: 'Description of Project Four' },
+  { id: '1', title: 'Bytechnology IT Solutions Portfolio Website', description: "Developed Bytechnology's portfolio website using Next.js 14 and Tailwind CSS, showcasing innovative IT solutions and enhancing digital presence from scratch." },
+  { id: '2', title: 'The Curfew Junction Restaurant Website', description: 'Developed a vibrant website for The Curfew Junction using HTML, CSS, and JavaScript to enhance user experience and restaurant branding.' },
+  { id: '3', title: 'The Amnesia Event Organization Portfolio Website', description: "Developed Amnesia's event portfolio website using React and Node.js, styled with CSS, featuring a Holi event theme and ticket booking integration." },
+  { id: '4', title: 'Software Developer Portfolio with Next.js, Tailwind CSS, Prismic, and Three.js', description: 'Built a dynamic software developer portfolio using Next.js 13, Tailwind CSS, Prismic for content management, and Three.js for interactive 3D effects.' },
+  { id: '5', title: 'Pharmacy Student & Digital Marketing Portfolio Website', description: 'Developed a diverse portfolio for a pharmacy student skilled in digital marketing, graphic design, and video editing using React, Node.js, and CSS.' },
+
 ]
 
 export default function ProjectsPage() {

@@ -31,7 +31,7 @@ export default function ContactUs() {
     }));
   };
 
-  const sheeturl = 'https://script.google.com/macros/s/AKfycbxAef0lD6VDQzHM4Wbt7o86OnGeSrMUyV87Br-mWp5ZcwZTodWQ8TNHw8BXBmJF2SQh/exec'
+  const sheeturl = 'https://script.google.com/macros/s/AKfycbzaJGy8DINQ9ssHlvZjpbCfO6Jn1Ws4DoK07X51JsV7UHtV2H0bPY9oM4GKYaw1Os-2/exec'
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -148,15 +148,15 @@ export default function ContactUs() {
                   <h3 className="text-xl font-medium text-gray-200 mb-2">Registered office</h3>
                   <p className="flex items-center text-gray-300 mb-2">
                     <MapPin className="mr-2 h-5 w-5 text-purple-400" />
-                    A-11, Shyam Vihar, Phase-2, Dwarka Sector 19B, New Delhi -110043
+                    NT Fit Zym Opposite Road, Block O, Nanakpura, Shakarpur Khas, Delhi, 110092, India
                   </p>
                 </div>
                 <div>
                   <h3 className="text-xl font-medium text-gray-200 mb-2">Delivery Center</h3>
                   <p className="flex items-center text-gray-300 mb-2">
                     <MapPin className="mr-2 h-5 w-5 text-purple-400" />
-                    BY Technology 
-                    Office No.- 14&15, 3rd Floor, Block J-4, Shree Ram Trade Centre, Main Road, Bishanpura, Sector 58, Noida, Uttar Pradesh - 201301
+                    Uniqueorp 
+                    NT Fit Zym Opposite Road, Block O, Nanakpura, Shakarpur Khas, Delhi, 110092, India
                   </p>
                 </div>
               </div>
@@ -168,11 +168,11 @@ export default function ContactUs() {
               <div className="space-y-4">
                 <p className="flex items-center text-gray-300">
                   <Phone className="mr-3 h-6 w-6 text-blue-400" />
-                  +91 8800202305
+                  +916204821754
                 </p>
                 <p className="flex items-center text-gray-300">
                   <Mail className="mr-3 h-6 w-6 text-blue-400" />
-                  info@bytechnology.in
+                  info@Uniqueorp.com
                 </p>
               </div>
             </div>
