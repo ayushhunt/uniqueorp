@@ -34,7 +34,7 @@ export default function BookCall() {
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
             data-cal-namespace="uniqueorp"
-            data-cal-link="ayush-singh/uniqueorp"
+            data-cal-link="ayushhunt/uniqueorp"
             data-cal-config='{"layout":"month_view"}'
           >
             BOOK A CALL ↗
