@@ -88,7 +88,7 @@ export default function StickyHeader() {
             <div className="flex items-center space-x-4">
               <button
                 data-cal-namespace="uniqueorp"
-                data-cal-link="ayush-singh/uniqueorp"
+                data-cal-link="ayushhunt/uniqueorp"
                 data-cal-config='{"layout":"month_view"}'
                 className="bg-blue-800 hover:text-white mr-5 px-3 py-2 rounded-md sm:rounded-sm text-lg font-medium transition-colors duration-200 ease-in-out"
               >
